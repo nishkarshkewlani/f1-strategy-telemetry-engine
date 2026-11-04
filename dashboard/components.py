@@ -1,6 +1,6 @@
 """Reusable Plotly visualization components with motorsport styling."""
 
-from typing import Dict, List, Optional
+from typing import Any, Dict, List, Optional
 import numpy as np
 import pandas as pd
 import plotly.express as px
