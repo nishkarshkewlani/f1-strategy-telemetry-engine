@@ -1,0 +1,8 @@
+{
+  "samples_fitted": 1064,
+  "compound_slopes_sec_per_lap": {
+    "MEDIUM": -0.0221,
+    "HARD": 0.0059,
+    "SOFT": -0.0401
+  }
+}

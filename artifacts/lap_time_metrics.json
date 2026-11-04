@@ -1,0 +1,32 @@
+{
+  "holdout_session_key": 9157,
+  "train_samples": 823,
+  "test_samples": 902,
+  "models": {
+    "dummy_median_baseline": {
+      "mae": 6.0122,
+      "rmse": 6.1203,
+      "r2": -26.3851
+    },
+    "ridge_linear_regression": {
+      "mae": 5.932,
+      "rmse": 6.0394,
+      "r2": -25.6665
+    },
+    "hist_gradient_boosting": {
+      "mae": 5.4385,
+      "rmse": 5.7091,
+      "r2": -22.8295
+    },
+    "random_forest": {
+      "mae": 5.5859,
+      "rmse": 5.9128,
+      "r2": -24.56
+    }
+  },
+  "empirical_residuals": {
+    "residual_mean": -5.4194,
+    "residual_q10": -2.5732,
+    "residual_q90": 1.3348
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "holdout_session_key": 9157,
+  "circuit": "Monza",
+  "total_test_laps": 902,
+  "overall_mae": 0.296,
+  "overall_rmse": 0.516,
+  "by_compound": {
+    "HARD": {
+      "laps": 482,
+      "mae": 0.274,
+      "mean_error": 0.003
+    },
+    "MEDIUM": {
+      "laps": 420,
+      "mae": 0.322,
+      "mean_error": -0.003
+    }
+  },
+  "by_driver": {
+    "ALB": {
+      "laps": 49,
+      "mae": 0.315
+    },
+    "ALO": {
+      "laps": 49,
+      "mae": 0.199
+    },
+    "BOT": {
+      "laps": 48,
+      "mae": 0.295
+    },
+    "GAS": {
+      "laps": 47,
+      "mae": 0.336
+    },
+    "HAM": {
+      "laps": 49,
+      "mae": 0.29
+    },
+    "HUL": {
+      "laps": 47,
+      "mae": 0.362
+    },
+    "LAW": {
+      "laps": 47,
+      "mae": 0.263
+    },
+    "LEC": {
+      "laps": 49,
+      "mae": 0.234
+    },
+    "MAG": {
+      "laps": 47,
+      "mae": 0.368
+    },
+    "NOR": {
+      "laps": 49,
+      "mae": 0.257
+    },
+    "OCO": {
+      "laps": 36,
+      "mae": 0.348
+    },
+    "PER": {
+      "laps": 49,
+      "mae": 0.27
+    },
+    "PIA": {
+      "laps": 47,
+      "mae": 0.385
+    },
+    "RUS": {
+      "laps": 49,
+      "mae": 0.204
+    },
+    "SAI": {
+      "laps": 49,
+      "mae": 0.239
+    },
+    "SAR": {
+      "laps": 48,
+      "mae": 0.301
+    },
+    "STR": {
+      "laps": 48,
+      "mae": 0.381
+    },
+    "VER": {
+      "laps": 48,
+      "mae": 0.254
+    },
+    "ZHO": {
+      "laps": 47,
+      "mae": 0.36
+    }
+  }
+}
